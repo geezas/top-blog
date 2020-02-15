@@ -5,7 +5,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="description" content="個人飲食店のためのビジネス情報ジャーナル">
   <meta name="keywords" content="飲食店,集客,ニュース">
-   <link rel="stylesheet" href="ERJ-blog.css" type="text/css" />
+   <link rel="stylesheet" href="stylesheet.css" type="text/css" />
   <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
   <meta http-equiv="X-UA-Compatible" content="ie=edge">
   <title>ERJ</title>
