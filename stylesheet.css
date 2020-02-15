@@ -1,0 +1,98 @@
+header{
+  width:1440px;
+  height: 70px;
+  background-color: #222121;
+}
+
+.bg-light{
+  width:1440px;
+  height: 50px;}
+
+.rogo{
+  text-align: center;
+}
+
+
+
+
+.container{
+  padding-top: 50px;
+}
+.col-sm-3{
+  padding-right: 20px;
+}
+
+.info{
+  width: 1440px;
+  height: 100px;
+  background-color: #525050;
+}
+
+.parent{
+  text-align: center;
+}
+
+.inline-block_test {
+    display: inline-block;      /* インラインブロック要素にする */
+    background-color:  #ccc;    /* 背景色指定 */
+    padding:  20px;             /* 余白指定 */
+    height: 100px;              /* 高さ指定 */
+    background-color: #525050;
+    color: #F6F6F6;
+    font-family: YuGothic;
+}
+
+footer{
+  width: 1440px;
+  height: 45px;
+  background-color:#222121;
+  color:#F6F6F6;
+  text-align: center;
+  padding-top: 5px;
+}
+
+
+/*-------------index----------------*/
+
+.side{
+  padding-bottom: 80px;
+}
+
+.main{
+  margin-left: 40px;
+  height: 5000px;
+}
+
+.pagination{
+  margin-left: 310px;
+  margin-top: 40px;
+  margin-bottom: 80px;
+}
+
+.media{
+  padding-left: 100px;
+  padding-right: 0px;
+  padding-top:0px;
+  padding-bottom:0px;
+  width: 700px;
+  height: 130px;
+}
+
+.bottom{
+  width: 600px;
+  height: 200px;
+  margin-left: 110px;
+}
+
+.s{
+  height: 200px;
+}
+
+.xx{
+  padding-top: 30px;
+}
+.tt{
+  margin-bottom: 130px;
+}
+/*-------------------index*/
+
